@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "4.17.1",
     "lodash": "4.17.15",
-    "semver": "7.5.0"
+    "semver": "7.8.5"
   },
   "devDependencies": {
     "chalk": "4.1.0"
