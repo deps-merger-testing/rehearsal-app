@@ -1,2 +1,4 @@
 mode: merge
 agent_review: true
+require_checks: true
+max_update_type: major
