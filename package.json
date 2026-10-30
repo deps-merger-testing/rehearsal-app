@@ -7,7 +7,7 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "debug": "4.3.1",
+    "debug": "4.4.3",
     "dotenv": "18.0.9",
     "express": "5.3.0",
     "lodash": "4.18.1",
